@@ -1,3 +1,3 @@
 # book_store
 
-Book Store website created using php,html,css,javascript.
+Book Store website created using PHP,HTML,CSS,JS And SQL.
